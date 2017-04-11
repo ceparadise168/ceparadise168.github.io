@@ -1,8 +1,8 @@
 面試履歷
 ===
-杜嘉豪(Eric Tu)
-聯絡電話：0932940154
-連絡信箱：ceparadise168@gmail.com
++ 杜嘉豪(Eric Tu)
++ 聯絡電話：0932940154
++ 連絡信箱：ceparadise168@gmail.com
 
 ## 技能🌲：
 
@@ -30,20 +30,21 @@
 
 
 ## 作品：
-透過抽牌選擇餐廳的app(android)
-自動通過打字測驗的bot(Batch  Script)
-PTT爬蟲(使用node.js  以及  cheerio-  framework)
-小型聊天室(node.js  firebase)
-IOT智慧衣(android  arduino  blueooth)
-Line商業帳號ChatBot(AWS  node.js  hubot-framework)
++ 抽牌選擇餐廳app(android)
++ 英打測驗bot(Batch  Script)
++ PTT爬蟲(使用node.js＋cheerio-  framework)
++ 小型聊天室(node.js＋firebase)
++ IOT智慧衣(android＋arduino＋blueooth)
++ Line商業帳號ChatBot(AWS＋node.js＋hubot-framework)
++ 簡易訂票系統(RoR)
 
 ## 學習紀錄：
-[FreeCodeCamp](https://www.freecodecamp.com/ceparadise168) :+1: 新手村
-[github](https://github.com/ceparadise168)
-[借閱書籍](https://gist.github.com/ceparadise168/a632d31aa2933dbfdef520f24a5646b1)
-[Bloger](http://ceparadise168.blogspot.tw)
-[codepen前端練習](http://codepen.io/Noric168/)
-[Wordpress](http://php-ceparadise168.rhcloud.com)
++ [FreeCodeCamp](https://www.freecodecamp.com/ceparadise168) :+1: 新手村
++ [github](https://github.com/ceparadise168)
++ [借閱書籍](https://gist.github.com/ceparadise168/a632d31aa2933dbfdef520f24a5646b1)
++ [Bloger](http://ceparadise168.blogspot.tw)
++ [codepen前端練習](http://codepen.io/Noric168/)
++ [Wordpress](http://php-ceparadise168.rhcloud.com)
 
 ## 關於我：
 
