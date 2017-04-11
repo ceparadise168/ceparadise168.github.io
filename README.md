@@ -64,9 +64,8 @@
 靠著免費資源自學或參與線下聚會討論
 例如 [FreeCodeCamp  Taichung  City](https://www.facebook.com/groups/free.code.camp.taichung.city/?fref=ts), MOPCON2016, [線上讀書會](https://www.facebook.com/readbook999/?fref=ts)
 
-雖然起步晚了點 
-也摸索了許久才終於摸到學習輪廓
-在海陸服役期間 對未來有了明確的規劃
+雖然起步晚了點 也摸索了許久才終於摸到學習輪廓
+在海陸服役期間 讓我對未來有了更明確的規劃
 未來會以全力在網頁工程師這份工作上衝刺實現目標
 
 
